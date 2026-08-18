@@ -1,24 +1,109 @@
-This is free and unencumbered software released into the public domain.
+Copyright © 2026 Joshua Bishop.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Except where otherwise noted, the original game content contained in this repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Official license:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-For more information, please refer to <https://unlicense.org>
+What You May Do
+
+Under the terms of CC BY-NC-SA 4.0, you may:
+
+Copy and share Tumblekin materials.
+Print copies for personal, educational, or other noncommercial use.
+Modify, remix, translate, and adapt the rules.
+Create your own enemies, characters, items, adventures, abilities, optional rules, and other game content based on the licensed material.
+Fork this repository.
+Share your adaptations with others.
+Submit your own contributions to the Tumblekin project.
+
+You do not need additional permission to do these things as long as you follow the terms of the license.
+
+Conditions
+
+Attribution
+
+You must give appropriate credit when sharing Tumblekin material or adaptations of it.
+
+Attribution should identify the Tumblekin project, provide a reference or link to the original project when reasonably possible, identify the CC BY-NC-SA 4.0 license, and indicate when you have modified the original material.
+
+Attribution does not imply that the Tumblekin project or its contributors endorse your work.
+
+NonCommercial
+
+You may not use the licensed Tumblekin material for commercial purposes except with separate permission from the applicable copyright holder.
+
+This includes selling, licensing, or otherwise commercially exploiting copies or adaptations of the licensed material where that use falls within the NonCommercial restriction of CC BY-NC-SA 4.0.
+
+If you are interested in commercial use of Tumblekin material, contact the project owner to discuss separate licensing.
+
+ShareAlike
+
+If you distribute an adaptation of licensed Tumblekin material, your adaptation must be distributed under CC BY-NC-SA 4.0 or another license permitted by the ShareAlike requirements of CC BY-NC-SA 4.0.
+
+You may not take licensed Tumblekin material, modify it, and then prevent others from exercising the rights granted by the applicable ShareAlike license.
+
+Community Contributions
+
+Tumblekin is intended to encourage community-created adventures, enemies, characters, items, abilities, optional rules, and other additions.
+
+Unless clearly stated otherwise before submission, by intentionally submitting original copyrightable material to this repository for inclusion in the project, you agree that your contribution may be distributed under:
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+You represent that you have the necessary rights to submit your contribution under those terms.
+
+Do not submit copyrighted artwork, writing, characters, settings, or other material belonging to someone else unless you have permission to distribute it under compatible terms.
+
+Contributors retain copyright in their original contributions. Submission grants the public the permissions provided by the applicable CC BY-NC-SA 4.0 license; it does not transfer copyright ownership to the Tumblekin project owner.
+
+Tumblekin Name and Branding
+
+The Creative Commons license applies to copyrightable game content identified as licensed material.
+
+It does not grant trademark rights in the Tumblekin name, Tumblekin logos, trade dress, or other project branding.
+
+You may truthfully identify material as being created for, derived from, or compatible with Tumblekin where permitted by applicable law, but you may not represent an unofficial work as an official Tumblekin product or imply sponsorship, approval, or endorsement by the Tumblekin project.
+
+Any trademark rights that exist in Tumblekin names, logos, or branding are reserved by their respective owners.
+
+Third-Party Material
+
+Some files or portions of files may contain artwork, fonts, trademarks, or other material provided under separate terms.
+
+Such material is not automatically covered by this license.
+
+Where third-party material is included, its applicable copyright or licensing information should be identified alongside the material or in the relevant file.
+
+Game Mechanics and Other Unprotected Material
+
+This license grants permissions only to the extent that copyright or other rights covered by CC BY-NC-SA 4.0 apply.
+
+Nothing in this license is intended to claim exclusive ownership over ideas, procedures, methods of play, game mechanics, facts, material in the public domain, or other material that is not protected by applicable copyright law.
+
+No Warranty
+
+Tumblekin and community contributions are provided without warranty.
+
+The disclaimer and limitation-of-liability provisions of the CC BY-NC-SA 4.0 license apply to material distributed under that license.
+
+Separate Permission
+
+The copyright holder may grant additional permissions separately from this public license.
+
+For example, a creator who wishes to commercially publish a Tumblekin adaptation may contact the applicable rights holder and request a separate commercial license.
+
+Granting such permission to one person does not change the CC BY-NC-SA 4.0 terms available to everyone else.
+
+Official License Terms
+
+This file is intended to explain the scope and application of licensing within the Tumblekin project. It does not replace or modify the Creative Commons license.
+
+The licensed material is made available under:
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+If anything in this explanatory file conflicts with the Creative Commons license regarding material licensed under CC BY-NC-SA 4.0, the terms of the Creative Commons license control.
